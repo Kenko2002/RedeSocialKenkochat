@@ -1,6 +1,0 @@
-
-ao cadastrar um usuário, ele deve ser anexado ao chat geral.
-
-adaptar o cls para apagar apenas o chat local
-
-acertar a troca de fotos na pagina de perfil
