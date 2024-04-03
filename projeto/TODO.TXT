@@ -1,0 +1,15 @@
+
+Limitar os caracteres de cadastro a nicks com 12 caracteres
+
+incluir botão de conceder privilégios de admin a um usuário de uma sala
+
+criar funcionalidade de pesquisar perfis de outros usuários
+
+criar módulo tinder
+
+criar módulo RPG
+
+implementar funcionalidade de posts privados que só aparecem na query "meus posts"
+e tem uma marcação diferenciada mostrando que são privados
+
+criar modal para visualizar estatísticar de recursos ligados aos tokens
