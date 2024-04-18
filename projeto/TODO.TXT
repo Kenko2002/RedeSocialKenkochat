@@ -1,0 +1,33 @@
+
+Limitar os caracteres de cadastro a nicks com 12 caracteres
+
+incluir botão de conceder privilégios de admin a um usuário de uma sala
+
+criar funcionalidade de pesquisar perfis de outros usuários
+
+criar módulo tinder
+
+implementar funcionalidade de posts privados que só aparecem na query "meus posts"
+e tem uma marcação diferenciada mostrando que são privados
+
+
+
+DESENVOLVER FUNCIONALIDADE PARA TAMANHO DA .cell EM METROS E MEDIR DISTANCIAS ENTRE CELULAS
+
+adicionar linhas editáveis ao modal recursos
+
+criar áreas de magia com diferentes formatos (circulo, cone_direita, cone_esquerda, cone_direita_invertido, cone_esquerda_invertido)
+
+fazer div que mostra todas as pessoas nesse tabuleiro
+
+ao duplicar um token, seus recursos e sua ficha também devem ser duplicados.
+
+fazer um dice rolling bot
+
+corrigir bug de carregamento na tela perfil.php
+
+resolver bug no modal recursos, a imagem ta podendo ser arrastada como se fosse token.
+
+reduzir sensibilidade da camera do tabuleiro
+
+criar um filtro de notas para notas compartilhadas por todos na mesa e notas individuais.

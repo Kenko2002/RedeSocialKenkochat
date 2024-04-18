@@ -1,0 +1,48 @@
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(var(--cols), 1fr);
+    grid-template-rows: repeat(var(--rows), 1fr);
+    width: 100%; /* Pode ajustar o tamanho conforme necessário */
+    height: 60vh; /* Pode ajustar o tamanho conforme necessário */
+    background-image: var(--background);
+    background-size: cover;
+    }
+.cell {
+    border: 1px solid black;
+}
+
+
+.board_container{
+    width:100%;
+    height:60vh;
+}
+
+
+/* Estilo personalizado para a div */
+.scrollable {
+    width: 100%;
+    height: 70vh; /* 40% da altura da tela */
+    overflow-y: scroll; /* Adicionar barra de rolagem vertical quando necessário */
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.scrollable::-webkit-scrollbar {
+    width: 0px; /* Largura da barra de rolagem */
+    height:0px;
+}
+.scrollable::-webkit-scrollbar-thumb {
+    background-color: #444; /* Cor da barra de rolagem */
+}
+
+
+.token{
+    border-radius: 50%;
+    background-image:url("https://t3.ftcdn.net/jpg/05/16/27/58/360_F_516275801_f3Fsp17x6HQK0xQgDQEELoTuERO4SsWV.jpg");
+    background-size:60px,60px;
+    background-position:center;
+    background-repeat:no-repeat;
+    width:40px;
+    height:40px;
+    cursor: grab;
+}
